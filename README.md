@@ -8,15 +8,3 @@ loads analysis, and virtual and hardware in the loop training.  Trick’s purpos
 is to provide a common set of simulation capabilities allowing the domain experts
 to concentrate on their domain specific models, rather than simulation-specific
 functions like an job ordering, input file processing, or data recording.
-
-### Installing Trick
-
-The [Installing Trick](https://github.com/nasa/Trick/wiki/Installing-Trick)
-wiki page includes instructions to install Trick.
-
-### User's Guide
-
-The full [User's Guide](https://github.com/nasa/Trick/wiki/Users-Guide) is in
-the wiki pages.
-
-
